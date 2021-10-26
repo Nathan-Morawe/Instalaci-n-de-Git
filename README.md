@@ -11,6 +11,7 @@
 ![imagen](https://user-images.githubusercontent.com/91209043/138945017-21f7130c-6f89-41b1-a169-e791a3384aac.png)
 
 ##Reviso los datos introducidos.
+
 ![imagen](https://user-images.githubusercontent.com/91209043/138945093-797849c9-5c4e-41ec-9ce2-e5919af933e5.png)
 
 ##Compruebo el funcionamiento del nano.
